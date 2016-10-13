@@ -1,0 +1,7 @@
+1.) What type of user's have the most up votes? (i.e. users with negative or positive sentiment on average)
+
+2.) What types of subjects have the greatest engagement? (i.e. negative or positive topics are the most active on average...as measured by timestamps and total responses; e.g. posts per day)
+
+3.) What is the probability a negative comment will yield a positive comment and vice versa?
+
+4.) What topics or words or phrases drive engagement most/least (i.e. response per day)?
